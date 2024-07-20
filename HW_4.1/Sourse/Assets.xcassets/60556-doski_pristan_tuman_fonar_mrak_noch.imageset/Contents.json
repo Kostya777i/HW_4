@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "60556-doski_pristan_tuman_fonar_mrak_noch.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
